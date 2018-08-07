@@ -50,7 +50,7 @@ Blockchain consultant helping organization to design and/or build blockchain app
 ## Investment
 
 ## Healthcare
-
+* [BLOCK M.D.](https://www.block-md.com)
 ## Legal Services
 ผู้ให้บริการที่ปรึกษาทางกฎหมายแก่ผู้ประกอบธุรกิจที่เกี่ยวกับ Blockchain/Digital Assets
 
@@ -65,7 +65,7 @@ Blockchain consultant helping organization to design and/or build blockchain app
 ## Social Project
 
 ## Technology Provider
-
+* [SmartContract Thailand](https://www.smartcontractthailand.com)
 ## Wallet/Dealer
 
 # License
