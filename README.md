@@ -32,8 +32,8 @@ Banks that uses Blockchain in their product or services (Build it themselves or 
 ผู้ให้บริการพัฒนาแอปปลิเคชั่น Blockchain
 Blockchain consultant helping organization to design and/or build blockchain applications
 
-*[Accenture Thailand](https://www.accenture.com/th-en/home)
-*[CoChain](https://web.facebook.com/cochain/)
+* [Accenture Thailand](https://www.accenture.com/th-en/home)
+* [CoChain](https://web.facebook.com/cochain/)
 
 ## Digital Asset Exchange
 
