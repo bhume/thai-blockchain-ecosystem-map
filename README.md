@@ -27,6 +27,7 @@ Banks that uses Blockchain in their product or services (Build it themselves or 
 * [Blockchain Fish](https://blockchain.fish/)
 * [Blockchain Review](https://web.facebook.com/blockchainreviewth/)
 * [Coin man](https://coinman.co/)
+* [ZyberZone](https://www.facebook.com/zyberzonethailand/)
 
 ## Consulting
 ผู้ให้บริการพัฒนาแอปปลิเคชั่น Blockchain
