@@ -2,7 +2,7 @@
 A map of who's doing what about Blockchain in Thailand
 
 # The map
-![alt text](https://github.com/bhume/thai-blockchain-ecosystem-map/blob/master/thai-blockchain-ecosystem-map.png "Thai Blockchain Ecosystem Map")
+![Thai Blockchain Ecosystem Map](https://github.com/bhume/thai-blockchain-ecosystem-map/blob/master/thai-blockchain-ecosystem-map.png "Thai Blockchain Ecosystem Map")
 
 # Directory
 
