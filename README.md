@@ -28,6 +28,9 @@ Banks that uses Blockchain in their product or services (Build it themselves or 
 * [Blockchain Review](https://web.facebook.com/blockchainreviewth/)
 * [Coin man](https://coinman.co/)
 * [ZyberZone](https://www.facebook.com/zyberzonethailand/)
+* [Blockchain Developer Thailand](https://www.facebook.com/groups/879466468887478/)
+* [Stellar Developer Thailand](https://www.facebook.com/groups/164076170920853/)
+* [Hyperledger Thailand](https://www.facebook.com/groups/131455637623024/)
 
 ## Consulting
 ผู้ให้บริการพัฒนาแอปปลิเคชั่น Blockchain
